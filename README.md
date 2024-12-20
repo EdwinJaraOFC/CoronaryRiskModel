@@ -9,8 +9,6 @@
 ## Visualización en Google Colab
 <p align="justify">Si deseas explorar el código y el análisis en su entorno original, puedes acceder al notebook ejecutado en Google Colab mediante el siguiente enlace:</p><a href="https://colab.research.google.com/drive/17lT_uRnLIMA4gGrw1OgcxTQ7_Z6BFhs2?usp=sharing">https://colab.research.google.com/drive/17lT_uRnLIMA4gGrw1OgcxTQ7_Z6BFhs2?usp=sharing</a> 
 
-<p align="justify">Google Colab proporciona un entorno en la nube que permite ejecutar el código sin necesidad de configuración local. Esto es útil para revisar el modelo, los gráficos generados y el análisis de manera interactiva.</p>
-
 ## Estructura del repositorio
 
 ```bash
